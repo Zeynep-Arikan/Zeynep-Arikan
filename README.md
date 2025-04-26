@@ -4,6 +4,8 @@
 ## About Me
 - 🔭 I'm working on advancing my skills in AI, system design, and frontend development through hands-on projects and real-world applications.
 - 🌱 Exploring System Design, Machine Learning, Python, Microservices, Design Patterns, and next-generation AI technologies like LLMs, RAG, LangChain, LangGraph, and AI Agents, with a strong passion for AI-driven systems and frontend innovation.
+- 📫 How to reach me: **[Email](mailto:zeyneparikan0650@gmail.com)**
+
 
 
 ## Skills
