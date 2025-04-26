@@ -7,6 +7,7 @@
 - 📫 How to reach me: **[Email](mailto:zeyneparikan0650@gmail.com)**
 
 
+
 ## Skills
 <table><tr><td valign="top" width="33%">
 
