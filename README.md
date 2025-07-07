@@ -8,44 +8,44 @@
 
 
 ## Skills
-<table><tr><td valign="top" width="33%" height="40%">
+<table><tr><td valign="top" width="33%" height="45%">
 
 ### 🌟 **Frontend Development**
 
 <div align="center" height= "30px">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"/></a>
-  <a href="https://mui.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40"/></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40"/></a>
-  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://ui.shadcn.com/apple-touch-icon.png" alt="ShadCN" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="45"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45"/></a>
+  <a href="https://mui.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="45"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="45"/></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://ui.shadcn.com/apple-touch-icon.png" alt="ShadCN" height="45"/></a>
 </div>
 
-</td><td valign="top" width="33%"  height="40%">
+</td><td valign="top" width="33%"  height="45%">
   
 
 ### 🔥 **Backend Development**
 <div align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45"/></a>
 </div>
 
 </td><td valign="top" width="33%">
 
 ### 🤖 **AI & LLMs**
 <div align="center">
-  <a href="https://python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain--logo.png?itok=JPlfUXXw" alt="LangChain" height="40"/></a>
-  <a href="https://www.langgraph.com/" target="_blank"><img src="https://assets.datacamp.com/production/repositories/6773/datasets/8b56faeb095c39785da93e3584af5b46e40b7842/LangGraph_icon.png" alt="LangGraph" height="40"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" alt="OpenAI" height="40"/></a>
-  <a href="https://ai.google.dev/" target="_blank"><img src="https://img.freepik.com/premium-vector/gemini-logo-icon_1273375-853.jpg" alt="Gemini AI" height="40"/></a>
-  <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://styles.redditmedia.com/t5_4wxz5h/styles/communityIcon_0doymzw2usjd1.png" alt="RAG" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40"/></a>
-  <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://t4.ftcdn.net/jpg/07/56/11/69/360_F_756116963_MKdL7O7BKH1ZHicpGXHd9ys9xDMhkGr2.jpg" alt="LLM" height="40"/></a>
+  <a href="https://python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain--logo.png?itok=JPlfUXXw" alt="LangChain" height="45"/></a>
+  <a href="https://www.langgraph.com/" target="_blank"><img src="https://assets.datacamp.com/production/repositories/6773/datasets/8b56faeb095c39785da93e3584af5b46e45b7842/LangGraph_icon.png" alt="LangGraph" height="45"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" alt="OpenAI" height="45"/></a>
+  <a href="https://ai.google.dev/" target="_blank"><img src="https://img.freepik.com/premium-vector/gemini-logo-icon_1273375-853.jpg" alt="Gemini AI" height="45"/></a>
+  <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://styles.redditmedia.com/t5_4wxz5h/styles/communityIcon_0doymzw2usjd1.png" alt="RAG" height="45"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="45"/></a>
+  <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://t4.ftcdn.net/jpg/07/56/11/69/360_F_756116963_MKdL7O7BKH1ZHicpGXHd9ys9xDMhkGr2.jpg" alt="LLM" height="45"/></a>
 </div>
 
 </td><td valign="top" width="33%">
