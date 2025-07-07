@@ -11,7 +11,7 @@
 <table><tr><td valign="top" width="33%" height="40%">
 
 ### 🌟 **Frontend Development**
-<div align="center">
+<div align="center" height= "30px">
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="15"/></a>
   <a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="15"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="15"/></a>
