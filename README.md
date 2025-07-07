@@ -11,14 +11,6 @@
 <table><tr><td valign="top" width="33%" height="40%">
 
 ### 🌟 **Frontend Development**
-<style>
-  .skill-icon {
-    height: 40px;
-    width: 40px;
-    margin: 5px;
-    object-fit: contain;
-  }
-</style>
 
 <div align="center" height= "30px">
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="15"/></a>
