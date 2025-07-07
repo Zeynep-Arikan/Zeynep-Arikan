@@ -24,7 +24,7 @@
 
 </td><td valign="top" width="33%"  height="40%">
   
-<!--
+
 ### 🔥 **Backend Development**
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40"/></a>
@@ -50,7 +50,7 @@
 
 </td><td valign="top" width="33%">
 
--->
+
 
 <!--
 **Zeynep-Arikan/Zeynep-Arikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
