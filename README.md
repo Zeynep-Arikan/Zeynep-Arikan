@@ -21,7 +21,7 @@
   <a href="https://ui.shadcn.com/" target="_blank"><img src="https://ui.shadcn.com/apple-touch-icon.png" alt="ShadCN" height="15"/></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%"  height="40%">
   
 <!--
 ### 🔥 **Backend Development**
