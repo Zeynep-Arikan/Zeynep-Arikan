@@ -9,7 +9,7 @@
 
 
 ## Skills
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" height="40%">
 
 ### 🌟 **Frontend Development**
 <div align="center">
